@@ -1,0 +1,15 @@
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+  border:2px dashed black;
+ box-shadow: 30px black;
+}
+h4 
+{
+ text-align: center;
+ text-shadow: 50px;
+ border-color: black;
+ border-width: 20px;
+}
